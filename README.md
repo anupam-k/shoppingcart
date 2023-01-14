@@ -1,1 +1,1 @@
-# Shopping-Cart-React-JS-ineuron-Internship-Project
+# _Shopping Cart_ 🛒🛍️
