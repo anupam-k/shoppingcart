@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
+import { Link } from "react-router-dom";
 import { ShopContext } from "../../context/shop-context";
-import './product.css';
+import "./product.css";
 
 export const Product = (props) => {
   const { id, productName, price, productImage } = props.data;
@@ -9,7 +10,9 @@ export const Product = (props) => {
   const cartItemCount = cartItems[id];
   return (
     <div className="product">
-      <img src={productImage}/>
+      <Link to={`/product/${id}`}>
+        <img src={productImage} />
+      </Link>
       <div className="description">
         <h3>
           <b>{productName}</b>
