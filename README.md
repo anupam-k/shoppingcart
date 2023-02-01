@@ -22,6 +22,9 @@ _**[Click Here To Preview HLD](https://www.canva.com/design/DAFZPZsNsDA/mz6obKjJ
 ## _Demo Video_
 _**[Click Here To Preview](https://drive.google.com/file/d/118WW741C6G6dYpY9TPcYvz_QX7NWkXRK/view?usp=drivesdk)**_
 
+## _LinkedIn Post_
+_**[Click Here to See](https://www.linkedin.com/posts/activity-7026378394413981696-NGvB?utm_source=share&utm_medium=member_desktop)**_
+
 ![margin](https://user-images.githubusercontent.com/91872149/215677575-7d7f1cbc-8e2d-4ae7-9bb9-4f5030296c61.png)
 
 ![margin (1)](https://user-images.githubusercontent.com/91872149/215680828-9ded5a4d-3cb5-4410-a220-53eaea6a54dd.png)
