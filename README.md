@@ -1,4 +1,5 @@
 # _iNeuron Internship Project: Shopping Cart_
+[![](https://img.shields.io/badge/iNeuron-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/iNeuron%20Internship-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Part%20of%20Full%20Stack%20Javascript%20Web%20Developer%20Bootcamp-5A16E0?style=for-the-badge)]()
 
 ## _Teachers_
 [![](https://img.shields.io/badge/Hitesh%20Choudhary%20Sir-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Anurag%20Tiwari%20Sir-5A16E0?style=for-the-badge)]()
