@@ -1,6 +1,9 @@
 # _iNeuron Internship Project: Shopping Cart_
 [![](https://img.shields.io/badge/iNeuron-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/iNeuron%20Internship-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Part%20of%20Full%20Stack%20Javascript%20Web%20Developer%20Bootcamp-5A16E0?style=for-the-badge)]()
 
+![Pink Floral Watercolor Quote Twitter Header](https://user-images.githubusercontent.com/91872149/215941736-5add1b9a-b3ca-42ea-b4d7-c7decac4b5fe.png)
+
+
 ## _Teachers_
 [![](https://img.shields.io/badge/Hitesh%20Choudhary%20Sir-5A16E0?style=for-the-badge)]() [![](https://img.shields.io/badge/Anurag%20Tiwari%20Sir-5A16E0?style=for-the-badge)]()
 
