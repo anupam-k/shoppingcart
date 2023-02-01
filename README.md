@@ -32,3 +32,7 @@ _**[Click Here to See](https://www.linkedin.com/posts/activity-70263783944139816
 ![screencapture-localhost-3000-2023-01-31-10_43_52](https://user-images.githubusercontent.com/91872149/215676962-8050ca39-ecfb-44b1-92bf-9044fd9e6610.png)
 
 ![screencapture-localhost-3000-cart-2023-01-31-10_44_16](https://user-images.githubusercontent.com/91872149/215676983-1a084da9-086d-4810-b620-df3325a3a403.png)
+
+## _⚠️When Cart is Empty⚠️_
+![empty](https://user-images.githubusercontent.com/91872149/215966034-122740bc-d4ba-4538-9dbc-16564fc31e5d.png)
+
